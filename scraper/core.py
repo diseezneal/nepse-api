@@ -49,6 +49,3 @@ class NepseScraper:
     def run_scraper(self):
         self.scrape_data()
         self.dump_data()
-
-
-NepseScraper().run_scraper()
