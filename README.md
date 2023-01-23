@@ -3,3 +3,6 @@
 </p>
 <h3 align="center">NEPSE API</h3>
 <p align="center">An open source NEPSE API.</p>
+
+## Endpoints Available
+- /nepse/todaysprice/
