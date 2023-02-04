@@ -5,4 +5,8 @@
 <p align="center">An open source NEPSE API.</p>
 
 ## Endpoints Available
+**Get**
 - /nepse/todaysprice/
+
+**Post**
+- /scraper/scrape/
